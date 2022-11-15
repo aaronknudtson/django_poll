@@ -1,3 +1,3 @@
 URLS - defined in views and propagated up through the directories to the root (mysite in this case). Each urls.py defines url paths and determines what is returned by defining a list called urlpatterns, which is a list of django.urls.paths.
 DATABASES: Really intuitive, they are defined in mysite/settings.py. Type of database is defined by "ENGINE", name by "NAME", and if using something more production like MYSQL or PostgreSQL we will also need USER, PASSWORD, and HOST
-
+admin website autogenerate is fantastic
