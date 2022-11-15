@@ -1,0 +1,1 @@
+URLS - defined in views and propagated up through the directories to the root (mysite in this case). Each urls.py defines url paths and determines what is returned by defining a list called urlpatterns, which is a list of django.urls.paths.
